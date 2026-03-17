@@ -13,3 +13,7 @@ Add smart contract architecture overview.
 ## [2026-03-16] docs: document ERC-20 token interface
 
 Document erc-20 token interface.
+
+## [2026-03-17] refactor: clean up contract deployment scripts
+
+Clean up contract deployment scripts.
