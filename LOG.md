@@ -17,3 +17,7 @@ Document erc-20 token interface.
 ## [2026-03-17] refactor: clean up contract deployment scripts
 
 Clean up contract deployment scripts.
+
+## [2026-03-18] docs: add Hardhat setup and installation guide
+
+Add hardhat setup and installation guide.
