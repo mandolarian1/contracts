@@ -21,3 +21,7 @@ Clean up contract deployment scripts.
 ## [2026-03-18] docs: add Hardhat setup and installation guide
 
 Add hardhat setup and installation guide.
+
+## [2026-03-19] fix: correct constructor parameter documentation
+
+Correct constructor parameter documentation.
