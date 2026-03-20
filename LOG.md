@@ -25,3 +25,7 @@ Add hardhat setup and installation guide.
 ## [2026-03-19] fix: correct constructor parameter documentation
 
 Correct constructor parameter documentation.
+
+## [2026-03-20] docs: document contract deployment process
+
+Document contract deployment process.
