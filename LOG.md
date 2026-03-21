@@ -29,3 +29,7 @@ Correct constructor parameter documentation.
 ## [2026-03-20] docs: document contract deployment process
 
 Document contract deployment process.
+
+## [2026-03-21] chore: update .gitignore for artifacts
+
+Update .gitignore for artifacts.
