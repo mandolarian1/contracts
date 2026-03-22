@@ -33,3 +33,7 @@ Document contract deployment process.
 ## [2026-03-21] chore: update .gitignore for artifacts
 
 Update .gitignore for artifacts.
+
+## [2026-03-22] docs: add contribution guidelines
+
+Add contribution guidelines.
