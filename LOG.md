@@ -37,3 +37,7 @@ Update .gitignore for artifacts.
 ## [2026-03-22] docs: add contribution guidelines
 
 Add contribution guidelines.
+
+## [2026-03-23] docs: describe ownership transfer logic
+
+Describe ownership transfer logic.
