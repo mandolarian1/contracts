@@ -45,3 +45,7 @@ Describe ownership transfer logic.
 ## [2026-03-24] perf: note gas optimization opportunities
 
 Note gas optimization opportunities.
+
+## [2026-03-25] docs: add troubleshooting section
+
+Add troubleshooting section.
