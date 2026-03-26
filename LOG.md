@@ -49,3 +49,7 @@ Note gas optimization opportunities.
 ## [2026-03-25] docs: add troubleshooting section
 
 Add troubleshooting section.
+
+## [2026-03-26] fix: clarify reentrancy guard usage
+
+Clarify reentrancy guard usage.
