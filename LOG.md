@@ -61,3 +61,7 @@ Document access control patterns.
 ## [2026-03-28] chore: add project metadata
 
 Add project metadata.
+
+## [2026-03-29] docs: describe OpenZeppelin dependencies
+
+Describe openzeppelin dependencies.
