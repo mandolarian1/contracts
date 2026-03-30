@@ -65,3 +65,7 @@ Add project metadata.
 ## [2026-03-29] docs: describe OpenZeppelin dependencies
 
 Describe openzeppelin dependencies.
+
+## [2026-03-30] docs: add security audit checklist
+
+Add security audit checklist.
