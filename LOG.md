@@ -69,3 +69,7 @@ Describe openzeppelin dependencies.
 ## [2026-03-30] docs: add security audit checklist
 
 Add security audit checklist.
+
+## [2026-03-31] refactor: improve natspec comments
+
+Improve natspec comments.
