@@ -73,3 +73,7 @@ Add security audit checklist.
 ## [2026-03-31] refactor: improve natspec comments
 
 Improve natspec comments.
+
+## [2026-04-01] docs: explain proxy upgrade pattern
+
+Explain proxy upgrade pattern.
