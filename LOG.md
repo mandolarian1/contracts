@@ -77,3 +77,7 @@ Improve natspec comments.
 ## [2026-04-01] docs: explain proxy upgrade pattern
 
 Explain proxy upgrade pattern.
+
+## [2026-04-02] fix: note edge case in token transfer
+
+Note edge case in token transfer.
