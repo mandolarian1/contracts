@@ -81,3 +81,7 @@ Explain proxy upgrade pattern.
 ## [2026-04-02] fix: note edge case in token transfer
 
 Note edge case in token transfer.
+
+## [2026-04-03] docs: add monitoring and event logging guide
+
+Add monitoring and event logging guide.
