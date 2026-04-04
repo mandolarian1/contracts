@@ -85,3 +85,7 @@ Note edge case in token transfer.
 ## [2026-04-03] docs: add monitoring and event logging guide
 
 Add monitoring and event logging guide.
+
+## [2026-04-04] chore: update project description
+
+Update project description.
