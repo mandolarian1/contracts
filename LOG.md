@@ -89,3 +89,7 @@ Add monitoring and event logging guide.
 ## [2026-04-04] chore: update project description
 
 Update project description.
+
+## [2026-04-05] docs: document pausable contract behavior
+
+Document pausable contract behavior.
