@@ -93,3 +93,7 @@ Update project description.
 ## [2026-04-05] docs: document pausable contract behavior
 
 Document pausable contract behavior.
+
+## [2026-04-06] perf: log gas usage improvements
+
+Log gas usage improvements.
