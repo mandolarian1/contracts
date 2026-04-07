@@ -97,3 +97,7 @@ Document pausable contract behavior.
 ## [2026-04-06] perf: log gas usage improvements
 
 Log gas usage improvements.
+
+## [2026-04-07] docs: describe fallback function handling
+
+Describe fallback function handling.
