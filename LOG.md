@@ -101,3 +101,7 @@ Log gas usage improvements.
 ## [2026-04-07] docs: describe fallback function handling
 
 Describe fallback function handling.
+
+## [2026-04-08] fix: clarify allowance reset behavior
+
+Clarify allowance reset behavior.
