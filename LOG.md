@@ -105,3 +105,7 @@ Describe fallback function handling.
 ## [2026-04-08] fix: clarify allowance reset behavior
 
 Clarify allowance reset behavior.
+
+## [2026-04-09] docs: add example mint and burn flow
+
+Add example mint and burn flow.
