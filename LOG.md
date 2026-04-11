@@ -113,3 +113,7 @@ Add example mint and burn flow.
 ## [2026-04-10] chore: restructure documentation layout
 
 Restructure documentation layout.
+
+## [2026-04-11] docs: document multisig wallet flow
+
+Document multisig wallet flow.
