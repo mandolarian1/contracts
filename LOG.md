@@ -117,3 +117,7 @@ Restructure documentation layout.
 ## [2026-04-11] docs: document multisig wallet flow
 
 Document multisig wallet flow.
+
+## [2026-04-12] fix: note integer overflow protection
+
+Note integer overflow protection.
