@@ -121,3 +121,7 @@ Document multisig wallet flow.
 ## [2026-04-12] fix: note integer overflow protection
 
 Note integer overflow protection.
+
+## [2026-04-13] docs: add test coverage report section
+
+Add test coverage report section.
