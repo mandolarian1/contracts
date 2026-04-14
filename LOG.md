@@ -125,3 +125,7 @@ Note integer overflow protection.
 ## [2026-04-13] docs: add test coverage report section
 
 Add test coverage report section.
+
+## [2026-04-14] perf: record deployment gas improvements
+
+Record deployment gas improvements.
