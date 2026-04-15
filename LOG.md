@@ -129,3 +129,7 @@ Add test coverage report section.
 ## [2026-04-14] perf: record deployment gas improvements
 
 Record deployment gas improvements.
+
+## [2026-04-15] docs: describe timelock controller
+
+Describe timelock controller.
