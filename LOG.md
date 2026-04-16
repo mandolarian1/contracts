@@ -133,3 +133,7 @@ Record deployment gas improvements.
 ## [2026-04-15] docs: describe timelock controller
 
 Describe timelock controller.
+
+## [2026-04-16] fix: correct ABI encoding notes
+
+Correct abi encoding notes.
