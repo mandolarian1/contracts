@@ -137,3 +137,7 @@ Describe timelock controller.
 ## [2026-04-16] fix: correct ABI encoding notes
 
 Correct abi encoding notes.
+
+## [2026-04-17] docs: add contract versioning strategy
+
+Add contract versioning strategy.
