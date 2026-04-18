@@ -141,3 +141,7 @@ Correct abi encoding notes.
 ## [2026-04-17] docs: add contract versioning strategy
 
 Add contract versioning strategy.
+
+## [2026-04-18] chore: update license to MIT
+
+Update license to mit.
