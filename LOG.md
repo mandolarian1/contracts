@@ -145,3 +145,7 @@ Add contract versioning strategy.
 ## [2026-04-18] chore: update license to MIT
 
 Update license to mit.
+
+## [2026-04-19] docs: document event emission patterns
+
+Document event emission patterns.
