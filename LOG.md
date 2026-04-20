@@ -149,3 +149,7 @@ Update license to mit.
 ## [2026-04-19] docs: document event emission patterns
 
 Document event emission patterns.
+
+## [2026-04-20] fix: note edge case in batch transfer
+
+Note edge case in batch transfer.
