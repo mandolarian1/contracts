@@ -153,3 +153,7 @@ Document event emission patterns.
 ## [2026-04-20] fix: note edge case in batch transfer
 
 Note edge case in batch transfer.
+
+## [2026-04-21] docs: add developer FAQ
+
+Add developer faq.
