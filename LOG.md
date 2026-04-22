@@ -157,3 +157,7 @@ Note edge case in batch transfer.
 ## [2026-04-21] docs: add developer FAQ
 
 Add developer faq.
+
+## [2026-04-22] perf: log storage slot optimization
+
+Log storage slot optimization.
