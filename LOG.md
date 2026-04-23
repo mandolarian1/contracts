@@ -161,3 +161,7 @@ Add developer faq.
 ## [2026-04-22] perf: log storage slot optimization
 
 Log storage slot optimization.
+
+## [2026-04-23] docs: describe staking reward logic
+
+Describe staking reward logic.
