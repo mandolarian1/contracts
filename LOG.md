@@ -165,3 +165,7 @@ Log storage slot optimization.
 ## [2026-04-23] docs: describe staking reward logic
 
 Describe staking reward logic.
+
+## [2026-04-24] fix: clarify withdraw cooldown period
+
+Clarify withdraw cooldown period.
