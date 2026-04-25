@@ -169,3 +169,7 @@ Describe staking reward logic.
 ## [2026-04-24] fix: clarify withdraw cooldown period
 
 Clarify withdraw cooldown period.
+
+## [2026-04-25] docs: add integration test examples
+
+Add integration test examples.
