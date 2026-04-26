@@ -173,3 +173,7 @@ Clarify withdraw cooldown period.
 ## [2026-04-25] docs: add integration test examples
 
 Add integration test examples.
+
+## [2026-04-26] chore: clean up stale natspec
+
+Clean up stale natspec.
