@@ -177,3 +177,7 @@ Add integration test examples.
 ## [2026-04-26] chore: clean up stale natspec
 
 Clean up stale natspec.
+
+## [2026-04-27] docs: document initializer guard usage
+
+Document initializer guard usage.
