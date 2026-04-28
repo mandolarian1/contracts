@@ -181,3 +181,7 @@ Clean up stale natspec.
 ## [2026-04-27] docs: document initializer guard usage
 
 Document initializer guard usage.
+
+## [2026-04-28] fix: note delegate call risks
+
+Note delegate call risks.
