@@ -185,3 +185,7 @@ Document initializer guard usage.
 ## [2026-04-28] fix: note delegate call risks
 
 Note delegate call risks.
+
+## [2026-04-29] docs: add audit trail for changes
+
+Add audit trail for changes.
