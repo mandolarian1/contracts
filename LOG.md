@@ -193,3 +193,7 @@ Add audit trail for changes.
 ## [2026-04-30] perf: record cold deploy time improvements
 
 Record cold deploy time improvements.
+
+## [2026-05-01] docs: describe signature verification
+
+Describe signature verification.
