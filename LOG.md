@@ -197,3 +197,7 @@ Record cold deploy time improvements.
 ## [2026-05-01] docs: describe signature verification
 
 Describe signature verification.
+
+## [2026-05-02] fix: clarify max supply enforcement
+
+Clarify max supply enforcement.
