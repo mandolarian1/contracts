@@ -201,3 +201,7 @@ Describe signature verification.
 ## [2026-05-02] fix: clarify max supply enforcement
 
 Clarify max supply enforcement.
+
+## [2026-05-03] docs: add observability guide
+
+Add observability guide.
