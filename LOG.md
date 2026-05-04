@@ -205,3 +205,7 @@ Clarify max supply enforcement.
 ## [2026-05-03] docs: add observability guide
 
 Add observability guide.
+
+## [2026-05-04] chore: update dependency versions
+
+Update dependency versions.
