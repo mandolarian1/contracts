@@ -209,3 +209,7 @@ Add observability guide.
 ## [2026-05-04] chore: update dependency versions
 
 Update dependency versions.
+
+## [2026-05-05] docs: document emergency pause process
+
+Document emergency pause process.
