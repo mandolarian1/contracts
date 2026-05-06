@@ -213,3 +213,7 @@ Update dependency versions.
 ## [2026-05-05] docs: document emergency pause process
 
 Document emergency pause process.
+
+## [2026-05-06] fix: note chain ID validation
+
+Note chain id validation.
