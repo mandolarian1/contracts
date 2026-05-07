@@ -217,3 +217,7 @@ Document emergency pause process.
 ## [2026-05-06] fix: note chain ID validation
 
 Note chain id validation.
+
+## [2026-05-07] docs: add deployment checklist
+
+Add deployment checklist.
