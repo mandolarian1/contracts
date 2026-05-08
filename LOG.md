@@ -221,3 +221,7 @@ Note chain id validation.
 ## [2026-05-07] docs: add deployment checklist
 
 Add deployment checklist.
+
+## [2026-05-08] perf: log calldata optimization stats
+
+Log calldata optimization stats.
