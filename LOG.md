@@ -225,3 +225,7 @@ Add deployment checklist.
 ## [2026-05-08] perf: log calldata optimization stats
 
 Log calldata optimization stats.
+
+## [2026-05-09] docs: describe merkle proof verification
+
+Describe merkle proof verification.
