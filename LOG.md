@@ -229,3 +229,7 @@ Log calldata optimization stats.
 ## [2026-05-09] docs: describe merkle proof verification
 
 Describe merkle proof verification.
+
+## [2026-05-10] fix: clarify fee calculation rounding
+
+Clarify fee calculation rounding.
