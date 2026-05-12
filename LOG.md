@@ -237,3 +237,7 @@ Clarify fee calculation rounding.
 ## [2026-05-11] docs: add cost estimation guide
 
 Add cost estimation guide.
+
+## [2026-05-12] chore: reorganize scripts structure
+
+Reorganize scripts structure.
