@@ -241,3 +241,7 @@ Add cost estimation guide.
 ## [2026-05-12] chore: reorganize scripts structure
 
 Reorganize scripts structure.
+
+## [2026-05-13] docs: document vesting schedule logic
+
+Document vesting schedule logic.
