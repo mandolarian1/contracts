@@ -245,3 +245,7 @@ Reorganize scripts structure.
 ## [2026-05-13] docs: document vesting schedule logic
 
 Document vesting schedule logic.
+
+## [2026-05-14] fix: note reentrancy in claimRewards
+
+Note reentrancy in claimrewards.
