@@ -249,3 +249,7 @@ Document vesting schedule logic.
 ## [2026-05-14] fix: note reentrancy in claimRewards
 
 Note reentrancy in claimrewards.
+
+## [2026-05-15] docs: add multi-network deployment guide
+
+Add multi-network deployment guide.
