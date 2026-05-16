@@ -253,3 +253,7 @@ Note reentrancy in claimrewards.
 ## [2026-05-15] docs: add multi-network deployment guide
 
 Add multi-network deployment guide.
+
+## [2026-05-16] perf: record bytecode size improvements
+
+Record bytecode size improvements.
