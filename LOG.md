@@ -257,3 +257,7 @@ Add multi-network deployment guide.
 ## [2026-05-16] perf: record bytecode size improvements
 
 Record bytecode size improvements.
+
+## [2026-05-17] docs: describe governance voting flow
+
+Describe governance voting flow.
