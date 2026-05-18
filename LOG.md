@@ -261,3 +261,7 @@ Record bytecode size improvements.
 ## [2026-05-17] docs: describe governance voting flow
 
 Describe governance voting flow.
+
+## [2026-05-18] fix: clarify quorum calculation
+
+Clarify quorum calculation.
