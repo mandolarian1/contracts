@@ -265,3 +265,7 @@ Describe governance voting flow.
 ## [2026-05-18] fix: clarify quorum calculation
 
 Clarify quorum calculation.
+
+## [2026-05-19] docs: add CI/CD pipeline documentation
+
+Add ci/cd pipeline documentation.
