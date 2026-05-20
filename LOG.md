@@ -269,3 +269,7 @@ Clarify quorum calculation.
 ## [2026-05-19] docs: add CI/CD pipeline documentation
 
 Add ci/cd pipeline documentation.
+
+## [2026-05-20] chore: update Hardhat config notes
+
+Update hardhat config notes.
