@@ -273,3 +273,7 @@ Add ci/cd pipeline documentation.
 ## [2026-05-20] chore: update Hardhat config notes
 
 Update hardhat config notes.
+
+## [2026-05-21] docs: document contract upgrade history
+
+Document contract upgrade history.
