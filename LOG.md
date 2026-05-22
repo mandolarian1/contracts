@@ -277,3 +277,7 @@ Update hardhat config notes.
 ## [2026-05-21] docs: document contract upgrade history
 
 Document contract upgrade history.
+
+## [2026-05-22] fix: note selfdestruct deprecation
+
+Note selfdestruct deprecation.
