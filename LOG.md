@@ -281,3 +281,7 @@ Document contract upgrade history.
 ## [2026-05-22] fix: note selfdestruct deprecation
 
 Note selfdestruct deprecation.
+
+## [2026-05-23] docs: add capacity planning guide
+
+Add capacity planning guide.
