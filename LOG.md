@@ -285,3 +285,7 @@ Note selfdestruct deprecation.
 ## [2026-05-23] docs: add capacity planning guide
 
 Add capacity planning guide.
+
+## [2026-05-24] perf: log view function gas savings
+
+Log view function gas savings.
