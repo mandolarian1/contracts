@@ -289,3 +289,7 @@ Add capacity planning guide.
 ## [2026-05-24] perf: log view function gas savings
 
 Log view function gas savings.
+
+## [2026-05-25] docs: describe oracle integration
+
+Describe oracle integration.
