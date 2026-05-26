@@ -293,3 +293,7 @@ Log view function gas savings.
 ## [2026-05-25] docs: describe oracle integration
 
 Describe oracle integration.
+
+## [2026-05-26] fix: clarify price feed staleness check
+
+Clarify price feed staleness check.
