@@ -297,3 +297,7 @@ Describe oracle integration.
 ## [2026-05-26] fix: clarify price feed staleness check
 
 Clarify price feed staleness check.
+
+## [2026-05-27] docs: add rollback procedure
+
+Add rollback procedure.
