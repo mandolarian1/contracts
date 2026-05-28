@@ -301,3 +301,7 @@ Clarify price feed staleness check.
 ## [2026-05-27] docs: add rollback procedure
 
 Add rollback procedure.
+
+## [2026-05-28] chore: update changelog format
+
+Update changelog format.
