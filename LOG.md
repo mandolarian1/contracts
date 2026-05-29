@@ -305,3 +305,7 @@ Add rollback procedure.
 ## [2026-05-28] chore: update changelog format
 
 Update changelog format.
+
+## [2026-05-29] docs: document flash loan guard
+
+Document flash loan guard.
