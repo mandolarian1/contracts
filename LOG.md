@@ -309,3 +309,7 @@ Update changelog format.
 ## [2026-05-29] docs: document flash loan guard
 
 Document flash loan guard.
+
+## [2026-05-30] fix: note sandwich attack mitigation
+
+Note sandwich attack mitigation.
