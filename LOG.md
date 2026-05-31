@@ -313,3 +313,7 @@ Document flash loan guard.
 ## [2026-05-30] fix: note sandwich attack mitigation
 
 Note sandwich attack mitigation.
+
+## [2026-05-31] docs: add fuzzing test guidance
+
+Add fuzzing test guidance.
