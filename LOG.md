@@ -317,3 +317,7 @@ Note sandwich attack mitigation.
 ## [2026-05-31] docs: add fuzzing test guidance
 
 Add fuzzing test guidance.
+
+## [2026-06-01] perf: record mapping vs array tradeoffs
+
+Record mapping vs array tradeoffs.
