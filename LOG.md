@@ -321,3 +321,7 @@ Add fuzzing test guidance.
 ## [2026-06-01] perf: record mapping vs array tradeoffs
 
 Record mapping vs array tradeoffs.
+
+## [2026-06-02] docs: describe liquidity pool math
+
+Describe liquidity pool math.
