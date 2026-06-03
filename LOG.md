@@ -325,3 +325,7 @@ Record mapping vs array tradeoffs.
 ## [2026-06-02] docs: describe liquidity pool math
 
 Describe liquidity pool math.
+
+## [2026-06-03] fix: clarify slippage tolerance
+
+Clarify slippage tolerance.
