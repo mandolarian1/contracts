@@ -329,3 +329,7 @@ Describe liquidity pool math.
 ## [2026-06-03] fix: clarify slippage tolerance
 
 Clarify slippage tolerance.
+
+## [2026-06-04] docs: add migration guide v1 to v2
+
+Add migration guide v1 to v2.
