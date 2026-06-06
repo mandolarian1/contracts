@@ -337,3 +337,7 @@ Add migration guide v1 to v2.
 ## [2026-06-05] chore: clean up legacy interfaces
 
 Clean up legacy interfaces.
+
+## [2026-06-06] docs: document role-based access control
+
+Document role-based access control.
