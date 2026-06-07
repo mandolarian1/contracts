@@ -341,3 +341,7 @@ Clean up legacy interfaces.
 ## [2026-06-06] docs: document role-based access control
 
 Document role-based access control.
+
+## [2026-06-07] fix: note bytes32 vs string tradeoff
+
+Note bytes32 vs string tradeoff.
