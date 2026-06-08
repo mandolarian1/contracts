@@ -345,3 +345,7 @@ Document role-based access control.
 ## [2026-06-07] fix: note bytes32 vs string tradeoff
 
 Note bytes32 vs string tradeoff.
+
+## [2026-06-08] docs: add invariant testing results
+
+Add invariant testing results.
