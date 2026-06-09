@@ -349,3 +349,7 @@ Note bytes32 vs string tradeoff.
 ## [2026-06-08] docs: add invariant testing results
 
 Add invariant testing results.
+
+## [2026-06-09] perf: log event indexing optimization
+
+Log event indexing optimization.
