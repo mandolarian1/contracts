@@ -353,3 +353,7 @@ Add invariant testing results.
 ## [2026-06-09] perf: log event indexing optimization
 
 Log event indexing optimization.
+
+## [2026-06-10] docs: describe cross-chain bridge logic
+
+Describe cross-chain bridge logic.
