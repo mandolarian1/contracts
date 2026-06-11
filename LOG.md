@@ -357,3 +357,7 @@ Log event indexing optimization.
 ## [2026-06-10] docs: describe cross-chain bridge logic
 
 Describe cross-chain bridge logic.
+
+## [2026-06-11] fix: clarify nonce management
+
+Clarify nonce management.
