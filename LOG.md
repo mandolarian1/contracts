@@ -361,3 +361,7 @@ Describe cross-chain bridge logic.
 ## [2026-06-11] fix: clarify nonce management
 
 Clarify nonce management.
+
+## [2026-06-12] docs: add runbook for common issues
+
+Add runbook for common issues.
