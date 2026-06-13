@@ -365,3 +365,7 @@ Clarify nonce management.
 ## [2026-06-12] docs: add runbook for common issues
 
 Add runbook for common issues.
+
+## [2026-06-13] chore: update team multisig address
+
+Update team multisig address.
