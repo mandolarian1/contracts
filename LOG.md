@@ -369,3 +369,7 @@ Add runbook for common issues.
 ## [2026-06-13] chore: update team multisig address
 
 Update team multisig address.
+
+## [2026-06-14] docs: document zero-downtime upgrade
+
+Document zero-downtime upgrade.
