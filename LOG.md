@@ -373,3 +373,7 @@ Update team multisig address.
 ## [2026-06-14] docs: document zero-downtime upgrade
 
 Document zero-downtime upgrade.
+
+## [2026-06-15] fix: note approve front-running issue
+
+Note approve front-running issue.
