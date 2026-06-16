@@ -377,3 +377,7 @@ Document zero-downtime upgrade.
 ## [2026-06-15] fix: note approve front-running issue
 
 Note approve front-running issue.
+
+## [2026-06-16] docs: add schema validation notes
+
+Add schema validation notes.
