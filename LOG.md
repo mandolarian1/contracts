@@ -381,3 +381,7 @@ Note approve front-running issue.
 ## [2026-06-16] docs: add schema validation notes
 
 Add schema validation notes.
+
+## [2026-06-17] perf: record P99 tx confirmation time
+
+Record p99 tx confirmation time.
