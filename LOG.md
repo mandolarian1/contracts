@@ -385,3 +385,7 @@ Add schema validation notes.
 ## [2026-06-17] perf: record P99 tx confirmation time
 
 Record p99 tx confirmation time.
+
+## [2026-06-18] docs: describe config hot-reload for scripts
+
+Describe config hot-reload for scripts.
