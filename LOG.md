@@ -389,3 +389,7 @@ Record p99 tx confirmation time.
 ## [2026-06-18] docs: describe config hot-reload for scripts
 
 Describe config hot-reload for scripts.
+
+## [2026-06-19] fix: clarify proxy admin transfer
+
+Clarify proxy admin transfer.
