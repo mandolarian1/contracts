@@ -393,3 +393,7 @@ Describe config hot-reload for scripts.
 ## [2026-06-19] fix: clarify proxy admin transfer
 
 Clarify proxy admin transfer.
+
+## [2026-06-20] docs: add compliance checklist
+
+Add compliance checklist.
