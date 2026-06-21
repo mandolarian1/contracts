@@ -397,3 +397,7 @@ Clarify proxy admin transfer.
 ## [2026-06-20] docs: add compliance checklist
 
 Add compliance checklist.
+
+## [2026-06-21] chore: add final audit preparation notes
+
+Add final audit preparation notes.
