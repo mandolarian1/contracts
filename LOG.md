@@ -401,3 +401,7 @@ Add compliance checklist.
 ## [2026-06-21] chore: add final audit preparation notes
 
 Add final audit preparation notes.
+
+## [2026-06-22] docs: record post-deployment verification steps
+
+Record post-deployment verification steps.
