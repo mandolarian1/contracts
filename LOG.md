@@ -405,3 +405,7 @@ Add final audit preparation notes.
 ## [2026-06-22] docs: record post-deployment verification steps
 
 Record post-deployment verification steps.
+
+## [2026-06-23] docs: finalize contracts documentation polish
+
+Finalize contracts documentation polish.
