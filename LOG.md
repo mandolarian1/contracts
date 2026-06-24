@@ -409,3 +409,7 @@ Record post-deployment verification steps.
 ## [2026-06-23] docs: finalize contracts documentation polish
 
 Finalize contracts documentation polish.
+
+## [2026-06-24] chore: mark v1.0 release ready
+
+Mark v1.0 release ready.
