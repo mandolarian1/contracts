@@ -413,3 +413,7 @@ Finalize contracts documentation polish.
 ## [2026-06-24] chore: mark v1.0 release ready
 
 Mark v1.0 release ready.
+
+## [2026-06-25] docs: add post-launch monitoring notes
+
+Add post-launch monitoring notes.
