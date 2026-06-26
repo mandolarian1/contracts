@@ -417,3 +417,7 @@ Mark v1.0 release ready.
 ## [2026-06-25] docs: add post-launch monitoring notes
 
 Add post-launch monitoring notes.
+
+## [2026-06-26] docs: final review and sign-off
+
+Final review and sign-off.
